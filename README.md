@@ -1,1 +1,4 @@
-BearTV from https://github.com/FongMi/BearTV
+# BearTV
+
+### Based on CatVod  
+https://github.com/CatVodTVOfficial
